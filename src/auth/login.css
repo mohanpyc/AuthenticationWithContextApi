@@ -93,6 +93,10 @@ button:focus {
   text-align: center;
 }
 
+.forgotpwd {
+  text-decoration: none;
+}
+
 /* Responsive design for smaller screens */
 @media (max-width: 500px) {
   .login {

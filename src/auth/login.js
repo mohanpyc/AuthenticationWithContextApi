@@ -68,6 +68,11 @@ const Login = () => {
           <button onClick={handleLogin}>Login</button>
           <button onClick={handleSignup}>Signup</button>
         </div>
+        <div className="buttons">
+          <a className="forgotpwd" href="">
+            Forgot password?
+          </a>
+        </div>
       </div>
     </div>
   );
